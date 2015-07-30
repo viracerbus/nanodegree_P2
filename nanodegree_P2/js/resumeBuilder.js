@@ -47,7 +47,7 @@ var education = {
   "schools" : [
     {
       "name" : "Gustavus Adolphus College",
-      "degree" : "Bachelor of the Arts",
+      "degree" : "BA",
       "location" : "Saint Peter, MN",
       "majors" : ["Computer Science"],
       "dates" : "September 2010 - July 2014",
