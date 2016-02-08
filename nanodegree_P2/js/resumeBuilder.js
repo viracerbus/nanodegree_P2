@@ -9,11 +9,12 @@ var bio = {
   'contacts' : {
     'mobile' : '612-590-3784',
     'email' : 'kevin.dexter@comcast.net',
-    'location' : '4235 Pineview Lane N, MN 55442'
+    'location' : '4235 Pineview Lane N, MN 55442',
+    'github' : 'github.com/viracerbus/'
   },
   'picture' : 'images/me.jpg',
   'welcome' : 'Welcome to my biography!',
-  'skills' : ['Java', 'Python', 'HTML (soon)', 'CSS (soon)', 'JS (soon)']
+  'skills' : ['Programming Languages - Java, Python, HTML (soon), CSS (soon), JS (soon)', 'Frameworks - jQuery', 'IDEs - Eclipse, Sublime Text 2, Oracle, IDLE', 'VCS - Git', 'Databases - SQL', 'Operating Systems - Windows 7, Windows 8', 'Applicable Software - QA Wizard Pro']
 }
 
 var work = {
